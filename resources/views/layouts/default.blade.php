@@ -8,7 +8,7 @@
 
 <body>
     <header>
-       <img src="{{ asset('images/ad01.png') }}" alt="ZJD" style="height:250px;">
+       <img src="{{ asset('images/ad01.png') }}" alt="ZJD" style="height:2  50px;">
        @yield('header')
        @include('layouts.sidemenu')
     </header>
